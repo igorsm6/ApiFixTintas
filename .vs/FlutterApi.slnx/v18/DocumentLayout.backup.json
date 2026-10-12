@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos_csharp\\FlutterApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7781DAE-CFCE-4425-BB2F-0C9FF231CBE0}|FlutterApi\\FlutterApi.csproj|c:\\projetos_csharp\\flutterapi\\flutterapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7781DAE-CFCE-4425-BB2F-0C9FF231CBE0}|FlutterApi\\FlutterApi.csproj|solutionrelative:flutterapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7781DAE-CFCE-4425-BB2F-0C9FF231CBE0}|FlutterApi\\FlutterApi.csproj|c:\\projetos_csharp\\flutterapi\\flutterapi\\model\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7781DAE-CFCE-4425-BB2F-0C9FF231CBE0}|FlutterApi\\FlutterApi.csproj|solutionrelative:flutterapi\\model\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7781DAE-CFCE-4425-BB2F-0C9FF231CBE0}|FlutterApi\\FlutterApi.csproj|c:\\projetos_csharp\\flutterapi\\flutterapi\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7781DAE-CFCE-4425-BB2F-0C9FF231CBE0}|FlutterApi\\FlutterApi.csproj|solutionrelative:flutterapi\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7781DAE-CFCE-4425-BB2F-0C9FF231CBE0}|FlutterApi\\FlutterApi.csproj|c:\\projetos_csharp\\flutterapi\\flutterapi\\migrations\\20261012153351_adicionarcorhexetipotinta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7781DAE-CFCE-4425-BB2F-0C9FF231CBE0}|FlutterApi\\FlutterApi.csproj|solutionrelative:flutterapi\\migrations\\20261012153351_adicionarcorhexetipotinta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7781DAE-CFCE-4425-BB2F-0C9FF231CBE0}|FlutterApi\\FlutterApi.csproj|c:\\projetos_csharp\\flutterapi\\flutterapi\\migrations\\20261012135347_criartabelaprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7781DAE-CFCE-4425-BB2F-0C9FF231CBE0}|FlutterApi\\FlutterApi.csproj|solutionrelative:flutterapi\\migrations\\20261012135347_criartabelaprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7781DAE-CFCE-4425-BB2F-0C9FF231CBE0}|FlutterApi\\FlutterApi.csproj|c:\\projetos_csharp\\flutterapi\\flutterapi\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7781DAE-CFCE-4425-BB2F-0C9FF231CBE0}|FlutterApi\\FlutterApi.csproj|solutionrelative:flutterapi\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7781DAE-CFCE-4425-BB2F-0C9FF231CBE0}|FlutterApi\\FlutterApi.csproj|c:\\projetos_csharp\\flutterapi\\flutterapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D7781DAE-CFCE-4425-BB2F-0C9FF231CBE0}|FlutterApi\\FlutterApi.csproj|solutionrelative:flutterapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7781DAE-CFCE-4425-BB2F-0C9FF231CBE0}|FlutterApi\\FlutterApi.csproj|c:\\projetos_csharp\\flutterapi\\flutterapi\\flutterapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D7781DAE-CFCE-4425-BB2F-0C9FF231CBE0}|FlutterApi\\FlutterApi.csproj|solutionrelative:flutterapi\\flutterapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7781DAE-CFCE-4425-BB2F-0C9FF231CBE0}|FlutterApi\\FlutterApi.csproj|c:\\projetos_csharp\\flutterapi\\flutterapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7781DAE-CFCE-4425-BB2F-0C9FF231CBE0}|FlutterApi\\FlutterApi.csproj|solutionrelative:flutterapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7781DAE-CFCE-4425-BB2F-0C9FF231CBE0}|FlutterApi\\FlutterApi.csproj|c:\\projetos_csharp\\flutterapi\\flutterapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D7781DAE-CFCE-4425-BB2F-0C9FF231CBE0}|FlutterApi\\FlutterApi.csproj|solutionrelative:flutterapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 160,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 764,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Projetos_csharp\\FlutterApi\\FlutterApi\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "FlutterApi\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Projetos_csharp\\FlutterApi\\FlutterApi\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "FlutterApi\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T18:07:44.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FlutterApi.http",
+              "DocumentMoniker": "C:\\Projetos_csharp\\FlutterApi\\FlutterApi\\FlutterApi.http",
+              "RelativeDocumentMoniker": "FlutterApi\\FlutterApi.http",
+              "ToolTip": "C:\\Projetos_csharp\\FlutterApi\\FlutterApi\\FlutterApi.http",
+              "RelativeToolTip": "FlutterApi\\FlutterApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-10-12T17:17:38.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20261012153351_AdicionarCorHexETipoTinta.cs",
+              "DocumentMoniker": "C:\\Projetos_csharp\\FlutterApi\\FlutterApi\\Migrations\\20261012153351_AdicionarCorHexETipoTinta.cs",
+              "RelativeDocumentMoniker": "FlutterApi\\Migrations\\20261012153351_AdicionarCorHexETipoTinta.cs",
+              "ToolTip": "C:\\Projetos_csharp\\FlutterApi\\FlutterApi\\Migrations\\20261012153351_AdicionarCorHexETipoTinta.cs",
+              "RelativeToolTip": "FlutterApi\\Migrations\\20261012153351_AdicionarCorHexETipoTinta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T15:33:51.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Projetos_csharp\\FlutterApi\\FlutterApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FlutterApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Projetos_csharp\\FlutterApi\\FlutterApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FlutterApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-12T14:13:55.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20261012135347_CriarTabelaProdutos.cs",
+              "DocumentMoniker": "C:\\Projetos_csharp\\FlutterApi\\FlutterApi\\Migrations\\20261012135347_CriarTabelaProdutos.cs",
+              "RelativeDocumentMoniker": "FlutterApi\\Migrations\\20261012135347_CriarTabelaProdutos.cs",
+              "ToolTip": "C:\\Projetos_csharp\\FlutterApi\\FlutterApi\\Migrations\\20261012135347_CriarTabelaProdutos.cs",
+              "RelativeToolTip": "FlutterApi\\Migrations\\20261012135347_CriarTabelaProdutos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T13:53:48.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "C:\\Projetos_csharp\\FlutterApi\\FlutterApi\\Controllers\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "FlutterApi\\Controllers\\ProdutosController.cs",
+              "ToolTip": "C:\\Projetos_csharp\\FlutterApi\\FlutterApi\\Controllers\\ProdutosController.cs",
+              "RelativeToolTip": "FlutterApi\\Controllers\\ProdutosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T03:03:16.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos_csharp\\FlutterApi\\FlutterApi\\Program.cs",
+              "RelativeDocumentMoniker": "FlutterApi\\Program.cs",
+              "ToolTip": "C:\\Projetos_csharp\\FlutterApi\\FlutterApi\\Program.cs",
+              "RelativeToolTip": "FlutterApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T02:58:59.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Projetos_csharp\\FlutterApi\\FlutterApi\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "FlutterApi\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Projetos_csharp\\FlutterApi\\FlutterApi\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "FlutterApi\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T02:58:27.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Projetos_csharp\\FlutterApi\\FlutterApi\\Model\\Produto.cs",
+              "RelativeDocumentMoniker": "FlutterApi\\Model\\Produto.cs",
+              "ToolTip": "C:\\Projetos_csharp\\FlutterApi\\FlutterApi\\Model\\Produto.cs",
+              "RelativeToolTip": "FlutterApi\\Model\\Produto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T02:57:53.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projetos_csharp\\FlutterApi\\FlutterApi\\appsettings.json",
+              "RelativeDocumentMoniker": "FlutterApi\\appsettings.json",
+              "ToolTip": "C:\\Projetos_csharp\\FlutterApi\\FlutterApi\\appsettings.json",
+              "RelativeToolTip": "FlutterApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-12T02:56:06.79Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
